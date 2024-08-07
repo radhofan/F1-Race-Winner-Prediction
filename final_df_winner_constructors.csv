@@ -1,0 +1,643 @@
+constructor_name,constructor_winner,race_winner,race_name,race_position,circuit_name,year
+Mercedes,1,Hamilton,Australian Grand Prix,1,Albert Park Grand Prix Circuit,2015
+Ferrari,1,Hamilton,Australian Grand Prix,3,Albert Park Grand Prix Circuit,2018
+Mercedes,1,Hamilton,Australian Grand Prix,2,Albert Park Grand Prix Circuit,2019
+Mercedes,1,Hamilton,Malaysian Grand Prix,1,Sepang International Circuit,2014
+Mercedes,1,Hamilton,Malaysian Grand Prix,2,Sepang International Circuit,2015
+Mercedes,1,Hamilton,Malaysian Grand Prix,3,Sepang International Circuit,2017
+Mercedes,1,Hamilton,Bahrain Grand Prix,2,Bahrain International Circuit,2014
+Mercedes,1,Hamilton,Bahrain Grand Prix,2,Bahrain International Circuit,2016
+Ferrari,1,Hamilton,Bahrain Grand Prix,1,Bahrain International Circuit,2017
+Ferrari,1,Hamilton,Bahrain Grand Prix,2,Bahrain International Circuit,2018
+Mercedes,1,Hamilton,Bahrain Grand Prix,2,Bahrain International Circuit,2019
+Mercedes,1,Hamilton,Bahrain Grand Prix,3,Bahrain International Circuit,2020
+Mercedes,1,Hamilton,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2014
+Mercedes,1,Hamilton,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2015
+Mercedes,1,Hamilton,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2017
+Mercedes,1,Hamilton,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2018
+Mercedes,1,Hamilton,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2019
+Mercedes,1,Hamilton,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2020
+Red Bull,1,Hamilton,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2022
+Red Bull,1,Hamilton,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2023
+Mercedes,1,Hamilton,Monaco Grand Prix,3,Circuit de Monaco,2014
+Mercedes,1,Hamilton,Monaco Grand Prix,3,Circuit de Monaco,2015
+Mercedes,1,Hamilton,Monaco Grand Prix,1,Circuit de Monaco,2016
+Red Bull,1,Hamilton,Monaco Grand Prix,1,Circuit de Monaco,2021
+Red Bull,1,Hamilton,Monaco Grand Prix,1,Circuit de Monaco,2023
+Mercedes,1,Hamilton,Canadian Grand Prix,3,Circuit Gilles Villeneuve,2015
+Mercedes,1,Hamilton,Canadian Grand Prix,2,Circuit Gilles Villeneuve,2016
+Mercedes,1,Hamilton,Canadian Grand Prix,1,Circuit Gilles Villeneuve,2017
+Red Bull,1,Hamilton,Canadian Grand Prix,2,Circuit Gilles Villeneuve,2023
+Red Bull,1,Hamilton,Canadian Grand Prix,1,Circuit Gilles Villeneuve,2024
+Mercedes,1,Hamilton,British Grand Prix,1,Silverstone Circuit,2014
+Mercedes,1,Hamilton,British Grand Prix,1,Silverstone Circuit,2015
+Mercedes,1,Hamilton,British Grand Prix,3,Silverstone Circuit,2016
+Mercedes,1,Hamilton,British Grand Prix,1,Silverstone Circuit,2017
+Ferrari,1,Hamilton,British Grand Prix,3,Silverstone Circuit,2018
+Mercedes,1,Hamilton,British Grand Prix,1,Silverstone Circuit,2019
+Mercedes,1,Hamilton,British Grand Prix,3,Silverstone Circuit,2020
+Mercedes,1,Hamilton,70th Anniversary Grand Prix,1,Silverstone Circuit,2020
+Red Bull,1,Hamilton,British Grand Prix,2,Silverstone Circuit,2021
+Red Bull,1,Hamilton,British Grand Prix,1,Silverstone Circuit,2022
+Red Bull,1,Hamilton,British Grand Prix,3,Silverstone Circuit,2023
+Mercedes,1,Hamilton,German Grand Prix,1,Hockenheimring,2014
+Mercedes,1,Hamilton,German Grand Prix,3,Hockenheimring,2016
+Mercedes,1,Hamilton,German Grand Prix,1,Hockenheimring,2018
+Mercedes,1,Hamilton,Hungarian Grand Prix,3,Hungaroring,2015
+Mercedes,1,Hamilton,Hungarian Grand Prix,3,Hungaroring,2016
+Mercedes,1,Hamilton,Hungarian Grand Prix,2,Hungaroring,2019
+Mercedes,1,Hamilton,Hungarian Grand Prix,1,Hungaroring,2020
+Mercedes,1,Hamilton,Hungarian Grand Prix,2,Hungaroring,2021
+Red Bull,1,Hamilton,Hungarian Grand Prix,1,Hungaroring,2022
+Red Bull,1,Hamilton,Hungarian Grand Prix,2,Hungaroring,2023
+Mercedes,1,Hamilton,Belgian Grand Prix,2,Circuit de Spa-Francorchamps,2015
+Mercedes,1,Hamilton,Belgian Grand Prix,1,Circuit de Spa-Francorchamps,2016
+Mercedes,1,Hamilton,Belgian Grand Prix,2,Circuit de Spa-Francorchamps,2017
+Mercedes,1,Hamilton,Belgian Grand Prix,3,Circuit de Spa-Francorchamps,2018
+Mercedes,1,Hamilton,Belgian Grand Prix,3,Circuit de Spa-Francorchamps,2019
+Mercedes,1,Hamilton,Belgian Grand Prix,2,Circuit de Spa-Francorchamps,2020
+Red Bull,1,Hamilton,Belgian Grand Prix,1,Circuit de Spa-Francorchamps,2023
+Mercedes,1,Hamilton,Italian Grand Prix,1,Autodromo Nazionale di Monza,2014
+Mercedes,1,Hamilton,Italian Grand Prix,1,Autodromo Nazionale di Monza,2015
+Mercedes,1,Hamilton,Italian Grand Prix,2,Autodromo Nazionale di Monza,2017
+Mercedes,1,Hamilton,Italian Grand Prix,1,Autodromo Nazionale di Monza,2018
+Mercedes,1,Hamilton,Italian Grand Prix,1,Autodromo Nazionale di Monza,2019
+Mercedes,1,Hamilton,Italian Grand Prix,1,Autodromo Nazionale di Monza,2020
+Red Bull,1,Hamilton,Italian Grand Prix,3,Autodromo Nazionale di Monza,2022
+Mercedes,1,Hamilton,Singapore Grand Prix,1,Marina Bay Street Circuit,2014
+Mercedes,1,Hamilton,Singapore Grand Prix,3,Marina Bay Street Circuit,2016
+Mercedes,1,Hamilton,Singapore Grand Prix,1,Marina Bay Street Circuit,2017
+Mercedes,1,Hamilton,Singapore Grand Prix,2,Marina Bay Street Circuit,2018
+Red Bull,1,Hamilton,Singapore Grand Prix,1,Marina Bay Street Circuit,2023
+Mercedes,1,Hamilton,Chinese Grand Prix,2,Shanghai International Circuit,2014
+Mercedes,1,Hamilton,Chinese Grand Prix,1,Shanghai International Circuit,2015
+Mercedes,1,Hamilton,Chinese Grand Prix,1,Shanghai International Circuit,2017
+Mercedes,1,Hamilton,Brazilian Grand Prix,1,Autódromo José Carlos Pace,2014
+Mercedes,1,Hamilton,Brazilian Grand Prix,1,Autódromo José Carlos Pace,2015
+Mercedes,1,Hamilton,Brazilian Grand Prix,3,Autódromo José Carlos Pace,2016
+Mercedes,1,Hamilton,Brazilian Grand Prix,2,Autódromo José Carlos Pace,2017
+Mercedes,1,Hamilton,Brazilian Grand Prix,3,Autódromo José Carlos Pace,2019
+Mercedes,1,Hamilton,São Paulo Grand Prix,2,Autódromo José Carlos Pace,2021
+Red Bull,1,Hamilton,São Paulo Grand Prix,2,Autódromo José Carlos Pace,2022
+Mercedes,1,Hamilton,Eifel Grand Prix,2,Nürburgring,2020
+Mercedes,1,Hamilton,Emilia Romagna Grand Prix,1,Autodromo Enzo e Dino Ferrari,2020
+Mercedes,1,Hamilton,Emilia Romagna Grand Prix,1,Autodromo Enzo e Dino Ferrari,2021
+Mercedes,1,Hamilton,Japanese Grand Prix,1,Suzuka Circuit,2014
+Mercedes,1,Hamilton,Japanese Grand Prix,1,Suzuka Circuit,2015
+Mercedes,1,Hamilton,Japanese Grand Prix,2,Suzuka Circuit,2016
+Mercedes,1,Hamilton,Japanese Grand Prix,2,Suzuka Circuit,2018
+Mercedes,1,Hamilton,Japanese Grand Prix,1,Suzuka Circuit,2019
+Red Bull,1,Hamilton,Japanese Grand Prix,3,Suzuka Circuit,2023
+Mercedes,1,Hamilton,Austrian Grand Prix,2,Red Bull Ring,2014
+Mercedes,1,Hamilton,Austrian Grand Prix,2,Red Bull Ring,2015
+Mercedes,1,Hamilton,Austrian Grand Prix,1,Red Bull Ring,2016
+Mercedes,1,Hamilton,Austrian Grand Prix,1,Red Bull Ring,2017
+Ferrari,1,Hamilton,Austrian Grand Prix,3,Red Bull Ring,2018
+Mercedes,1,Hamilton,Austrian Grand Prix,3,Red Bull Ring,2020
+Mercedes,1,Hamilton,Styrian Grand Prix,3,Red Bull Ring,2020
+Red Bull,1,Hamilton,Styrian Grand Prix,1,Red Bull Ring,2021
+Red Bull,1,Hamilton,Austrian Grand Prix,3,Red Bull Ring,2021
+Mercedes,1,Hamilton,Mexican Grand Prix,2,Autódromo Hermanos Rodríguez,2015
+Red Bull,1,Hamilton,Mexico City Grand Prix,1,Autódromo Hermanos Rodríguez,2023
+Mercedes,1,Hamilton,French Grand Prix,2,Circuit Paul Ricard,2019
+Mercedes,1,Hamilton,Dutch Grand Prix,1,Circuit Park Zandvoort,2021
+Red Bull,1,Hamilton,Dutch Grand Prix,3,Circuit Park Zandvoort,2022
+Red Bull,1,Hamilton,Dutch Grand Prix,3,Circuit Park Zandvoort,2023
+Mercedes,1,Hamilton,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2015
+Mercedes,1,Hamilton,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2017
+Mercedes,1,Hamilton,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2019
+Mercedes,1,Hamilton,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2021
+Mercedes,1,Hamilton,United States Grand Prix,2,Circuit of the Americas,2015
+Mercedes,1,Hamilton,United States Grand Prix,1,Circuit of the Americas,2018
+Mercedes,1,Hamilton,United States Grand Prix,1,Circuit of the Americas,2021
+Mercedes,1,Hamilton,Russian Grand Prix,3,Sochi Autodrom,2014
+Mercedes,1,Hamilton,Russian Grand Prix,3,Sochi Autodrom,2015
+Mercedes,1,Hamilton,Russian Grand Prix,2,Sochi Autodrom,2018
+Mercedes,1,Hamilton,Russian Grand Prix,1,Sochi Autodrom,2019
+Mercedes,1,Hamilton,Russian Grand Prix,2,Sochi Autodrom,2021
+Mercedes,1,Hamilton,European Grand Prix,2,Baku City Circuit,2016
+Mercedes,1,Hamilton,Azerbaijan Grand Prix,2,Baku City Circuit,2017
+Ferrari,1,Hamilton,Azerbaijan Grand Prix,2,Baku City Circuit,2018
+Mercedes,1,Hamilton,Azerbaijan Grand Prix,3,Baku City Circuit,2019
+Red Bull,1,Hamilton,Azerbaijan Grand Prix,3,Baku City Circuit,2021
+Red Bull,1,Hamilton,Azerbaijan Grand Prix,3,Baku City Circuit,2022
+Mercedes,1,Hamilton,Tuscan Grand Prix,1,Autodromo Internazionale del Mugello,2020
+Mercedes,1,Hamilton,Portuguese Grand Prix,1,Autódromo Internacional do Algarve,2020
+Mercedes,1,Hamilton,Qatar Grand Prix,2,Losail International Circuit,2021
+Mercedes,1,Hamilton,Saudi Arabian Grand Prix,1,Jeddah Corniche Circuit,2021
+Red Bull,1,Hamilton,Saudi Arabian Grand Prix,2,Jeddah Corniche Circuit,2024
+McLaren,1,Rosberg,Australian Grand Prix,1,Albert Park Grand Prix Circuit,2014
+Mercedes,1,Rosberg,Australian Grand Prix,2,Albert Park Grand Prix Circuit,2015
+Mercedes,1,Rosberg,Australian Grand Prix,3,Albert Park Grand Prix Circuit,2016
+Mercedes,1,Rosberg,Malaysian Grand Prix,2,Sepang International Circuit,2014
+Mercedes,1,Rosberg,Malaysian Grand Prix,1,Sepang International Circuit,2015
+Mercedes,1,Rosberg,Malaysian Grand Prix,1,Sepang International Circuit,2016
+Mercedes,1,Rosberg,Bahrain Grand Prix,1,Bahrain International Circuit,2014
+Mercedes,1,Rosberg,Bahrain Grand Prix,3,Bahrain International Circuit,2015
+Mercedes,1,Rosberg,Bahrain Grand Prix,1,Bahrain International Circuit,2016
+Mercedes,1,Rosberg,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2014
+Mercedes,1,Rosberg,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2015
+Mercedes,1,Rosberg,Monaco Grand Prix,2,Circuit de Monaco,2015
+Mercedes,1,Rosberg,Canadian Grand Prix,1,Circuit Gilles Villeneuve,2016
+Mercedes,1,Rosberg,British Grand Prix,3,Silverstone Circuit,2014
+Mercedes,1,Rosberg,British Grand Prix,2,Silverstone Circuit,2015
+Mercedes,1,Rosberg,British Grand Prix,1,Silverstone Circuit,2016
+Mercedes,1,Rosberg,Hungarian Grand Prix,1,Hungaroring,2014
+Mercedes,1,Rosberg,Hungarian Grand Prix,2,Hungaroring,2015
+Mercedes,1,Rosberg,Hungarian Grand Prix,2,Hungaroring,2016
+Mercedes,1,Rosberg,Belgian Grand Prix,1,Circuit de Spa-Francorchamps,2014
+Mercedes,1,Rosberg,Belgian Grand Prix,1,Circuit de Spa-Francorchamps,2015
+Mercedes,1,Rosberg,Belgian Grand Prix,2,Circuit de Spa-Francorchamps,2016
+Mercedes,1,Rosberg,Italian Grand Prix,2,Autodromo Nazionale di Monza,2014
+Mercedes,1,Rosberg,Italian Grand Prix,2,Autodromo Nazionale di Monza,2015
+Mercedes,1,Rosberg,Chinese Grand Prix,1,Shanghai International Circuit,2014
+Mercedes,1,Rosberg,Chinese Grand Prix,2,Shanghai International Circuit,2015
+Mercedes,1,Rosberg,Brazilian Grand Prix,2,Autódromo José Carlos Pace,2014
+Mercedes,1,Rosberg,Brazilian Grand Prix,2,Autódromo José Carlos Pace,2015
+Mercedes,1,Rosberg,Japanese Grand Prix,2,Suzuka Circuit,2015
+Mercedes,1,Rosberg,Austrian Grand Prix,1,Red Bull Ring,2015
+Mercedes,1,Rosberg,Austrian Grand Prix,2,Red Bull Ring,2016
+Mercedes,1,Rosberg,Mexican Grand Prix,1,Autódromo Hermanos Rodríguez,2015
+Mercedes,1,Rosberg,United States Grand Prix,1,Circuit of the Americas,2015
+Mercedes,1,Rosberg,United States Grand Prix,3,Circuit of the Americas,2016
+Mercedes,1,Rosberg,Russian Grand Prix,2,Sochi Autodrom,2014
+Mercedes,1,Rosberg,Russian Grand Prix,1,Sochi Autodrom,2016
+Mercedes,1,Rosberg,European Grand Prix,1,Baku City Circuit,2016
+Ferrari,1,Alonso,Australian Grand Prix,2,Albert Park Grand Prix Circuit,2022
+Mercedes,1,Alonso,Malaysian Grand Prix,3,Sepang International Circuit,2014
+Red Bull,1,Alonso,Bahrain Grand Prix,3,Bahrain International Circuit,2024
+Red Bull,1,Alonso,Monaco Grand Prix,3,Circuit de Monaco,2022
+Mercedes,1,Alonso,Canadian Grand Prix,3,Circuit Gilles Villeneuve,2014
+Mercedes,1,Alonso,British Grand Prix,2,Silverstone Circuit,2016
+Mercedes,1,Alonso,German Grand Prix,3,Hockenheimring,2014
+Mercedes,1,Alonso,Hungarian Grand Prix,1,Hungaroring,2017
+Mercedes,1,Alonso,Hungarian Grand Prix,3,Hungaroring,2021
+Mercedes,1,Alonso,Italian Grand Prix,1,Autodromo Nazionale di Monza,2016
+Red Bull,1,Alonso,Singapore Grand Prix,3,Marina Bay Street Circuit,2023
+Red Bull,1,Alonso,Chinese Grand Prix,1,Shanghai International Circuit,2024
+Red Bull,1,Alonso,Emilia Romagna Grand Prix,2,Autodromo Enzo e Dino Ferrari,2024
+Red Bull,1,Alonso,Japanese Grand Prix,2,Suzuka Circuit,2022
+Red Bull,1,Alonso,Austrian Grand Prix,3,Red Bull Ring,2022
+Red Bull,1,Alonso,Austrian Grand Prix,1,Red Bull Ring,2024
+Red Bull,1,Alonso,Dutch Grand Prix,1,Circuit Park Zandvoort,2023
+Mercedes,1,Alonso,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2015
+Mercedes,1,Alonso,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2016
+Mercedes,1,Alonso,United States Grand Prix,2,Circuit of the Americas,2014
+Red Bull,1,Alonso,Azerbaijan Grand Prix,3,Baku City Circuit,2023
+Red Bull,1,Alonso,Saudi Arabian Grand Prix,3,Jeddah Corniche Circuit,2023
+Red Bull,1,Alonso,Miami Grand Prix,2,Miami International Autodrome,2023
+Mercedes,1,Räikkönen,Australian Grand Prix,3,Albert Park Grand Prix Circuit,2015
+Ferrari,1,Räikkönen,Australian Grand Prix,1,Albert Park Grand Prix Circuit,2017
+Ferrari,1,Räikkönen,Australian Grand Prix,2,Albert Park Grand Prix Circuit,2018
+Mercedes,1,Räikkönen,Bahrain Grand Prix,1,Bahrain International Circuit,2015
+Mercedes,1,Räikkönen,Bahrain Grand Prix,3,Bahrain International Circuit,2016
+Ferrari,1,Räikkönen,Bahrain Grand Prix,3,Bahrain International Circuit,2017
+Mercedes,1,Räikkönen,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2015
+Mercedes,1,Räikkönen,Monaco Grand Prix,1,Circuit de Monaco,2014
+Ferrari,1,Räikkönen,Monaco Grand Prix,3,Circuit de Monaco,2017
+Mercedes,1,Räikkönen,Canadian Grand Prix,2,Circuit Gilles Villeneuve,2014
+Mercedes,1,Räikkönen,Canadian Grand Prix,1,Circuit Gilles Villeneuve,2015
+Mercedes,1,Räikkönen,Canadian Grand Prix,3,Circuit Gilles Villeneuve,2017
+Ferrari,1,Räikkönen,British Grand Prix,2,Silverstone Circuit,2018
+Mercedes,1,Räikkönen,Hungarian Grand Prix,1,Hungaroring,2016
+Mercedes,1,Räikkönen,Hungarian Grand Prix,2,Hungaroring,2017
+Mercedes,1,Räikkönen,Hungarian Grand Prix,3,Hungaroring,2018
+Mercedes,1,Räikkönen,Italian Grand Prix,3,Autodromo Nazionale di Monza,2016
+Mercedes,1,Räikkönen,Chinese Grand Prix,3,Shanghai International Circuit,2018
+Mercedes,1,Räikkönen,Japanese Grand Prix,2,Suzuka Circuit,2017
+Mercedes,1,Räikkönen,Austrian Grand Prix,3,Red Bull Ring,2017
+Ferrari,1,Räikkönen,Austrian Grand Prix,1,Red Bull Ring,2018
+Mercedes,1,Räikkönen,Mexican Grand Prix,3,Autódromo Hermanos Rodríguez,2016
+Mercedes,1,Räikkönen,French Grand Prix,3,Circuit Paul Ricard,2018
+Mercedes,1,Räikkönen,United States Grand Prix,2,Circuit of the Americas,2016
+Mercedes,1,Räikkönen,Russian Grand Prix,2,Sochi Autodrom,2015
+Mercedes,1,Räikkönen,Russian Grand Prix,3,Sochi Autodrom,2016
+Mercedes,1,Räikkönen,Russian Grand Prix,1,Sochi Autodrom,2017
+Mercedes,1,Massa,Canadian Grand Prix,1,Circuit Gilles Villeneuve,2014
+Mercedes,1,Massa,British Grand Prix,3,Silverstone Circuit,2015
+Mercedes,1,Massa,Belgian Grand Prix,3,Circuit de Spa-Francorchamps,2014
+Mercedes,1,Massa,Italian Grand Prix,3,Autodromo Nazionale di Monza,2014
+Mercedes,1,Massa,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2014
+Mercedes,1,Massa,Russian Grand Prix,2,Sochi Autodrom,2016
+Mercedes,1,Sutil,Belgian Grand Prix,2,Circuit de Spa-Francorchamps,2014
+Mercedes,1,Button,Chinese Grand Prix,3,Shanghai International Circuit,2016
+Mercedes,1,Button,Japanese Grand Prix,2,Suzuka Circuit,2014
+Mercedes,1,Vettel,Australian Grand Prix,2,Albert Park Grand Prix Circuit,2016
+Ferrari,1,Vettel,Australian Grand Prix,3,Albert Park Grand Prix Circuit,2017
+Mercedes,1,Vettel,Malaysian Grand Prix,3,Sepang International Circuit,2015
+Mercedes,1,Vettel,Malaysian Grand Prix,1,Sepang International Circuit,2017
+Mercedes,1,Vettel,Bahrain Grand Prix,2,Bahrain International Circuit,2015
+Mercedes,1,Vettel,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2014
+Mercedes,1,Vettel,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2016
+Mercedes,1,Vettel,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2017
+Mercedes,1,Vettel,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2018
+Mercedes,1,Vettel,Monaco Grand Prix,2,Circuit de Monaco,2016
+Ferrari,1,Vettel,Monaco Grand Prix,2,Circuit de Monaco,2017
+Mercedes,1,Vettel,Canadian Grand Prix,2,Circuit Gilles Villeneuve,2015
+Mercedes,1,Vettel,Canadian Grand Prix,3,Circuit Gilles Villeneuve,2016
+Mercedes,1,Vettel,Canadian Grand Prix,2,Circuit Gilles Villeneuve,2017
+Mercedes,1,Vettel,Canadian Grand Prix,2,Circuit Gilles Villeneuve,2018
+Mercedes,1,Vettel,British Grand Prix,2,Silverstone Circuit,2014
+Ferrari,1,Vettel,British Grand Prix,1,Silverstone Circuit,2018
+Mercedes,1,Vettel,British Grand Prix,3,Silverstone Circuit,2019
+Mercedes,1,Vettel,German Grand Prix,2,Hockenheimring,2016
+Mercedes,1,Vettel,German Grand Prix,2,Hockenheimring,2019
+Mercedes,1,Vettel,Hungarian Grand Prix,2,Hungaroring,2018
+Mercedes,1,Vettel,Belgian Grand Prix,1,Circuit de Spa-Francorchamps,2017
+Mercedes,1,Vettel,Belgian Grand Prix,2,Circuit de Spa-Francorchamps,2018
+Mercedes,1,Vettel,Belgian Grand Prix,1,Circuit de Spa-Francorchamps,2019
+Mercedes,1,Vettel,Italian Grand Prix,3,Autodromo Nazionale di Monza,2015
+Mercedes,1,Vettel,Italian Grand Prix,2,Autodromo Nazionale di Monza,2018
+Mercedes,1,Vettel,Italian Grand Prix,2,Autodromo Nazionale di Monza,2019
+Mercedes,1,Vettel,Singapore Grand Prix,2,Marina Bay Street Circuit,2015
+Mercedes,1,Vettel,Singapore Grand Prix,2,Marina Bay Street Circuit,2016
+Mercedes,1,Vettel,Chinese Grand Prix,2,Shanghai International Circuit,2017
+Mercedes,1,Vettel,Chinese Grand Prix,2,Shanghai International Circuit,2019
+Mercedes,1,Vettel,Brazilian Grand Prix,3,Autódromo José Carlos Pace,2015
+Mercedes,1,Vettel,Brazilian Grand Prix,2,Autódromo José Carlos Pace,2018
+Mercedes,1,Vettel,Japanese Grand Prix,3,Suzuka Circuit,2014
+Mercedes,1,Vettel,Japanese Grand Prix,3,Suzuka Circuit,2015
+Mercedes,1,Vettel,Japanese Grand Prix,1,Suzuka Circuit,2016
+Mercedes,1,Vettel,Japanese Grand Prix,1,Suzuka Circuit,2018
+Mercedes,1,Vettel,Austrian Grand Prix,3,Red Bull Ring,2015
+Ferrari,1,Vettel,Austrian Grand Prix,2,Red Bull Ring,2018
+Mercedes,1,Vettel,Austrian Grand Prix,2,Red Bull Ring,2019
+Mercedes,1,Vettel,Mexican Grand Prix,2,Autódromo Hermanos Rodríguez,2016
+Mercedes,1,Vettel,Mexican Grand Prix,1,Autódromo Hermanos Rodríguez,2017
+Mercedes,1,Vettel,Mexican Grand Prix,3,Autódromo Hermanos Rodríguez,2019
+Mercedes,1,Vettel,French Grand Prix,1,Circuit Paul Ricard,2019
+Mercedes,1,Vettel,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2014
+Mercedes,1,Vettel,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2015
+Mercedes,1,Vettel,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2016
+Mercedes,1,Vettel,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2017
+Mercedes,1,Vettel,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2018
+Mercedes,1,Vettel,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2019
+Mercedes,1,Vettel,United States Grand Prix,1,Circuit of the Americas,2014
+Mercedes,1,Vettel,United States Grand Prix,3,Circuit of the Americas,2015
+Mercedes,1,Vettel,United States Grand Prix,1,Circuit of the Americas,2016
+Mercedes,1,Vettel,United States Grand Prix,1,Circuit of the Americas,2017
+Mercedes,1,Vettel,United States Grand Prix,3,Circuit of the Americas,2018
+Mercedes,1,Vettel,Russian Grand Prix,1,Sochi Autodrom,2015
+Mercedes,1,Vettel,Russian Grand Prix,2,Sochi Autodrom,2017
+Mercedes,1,Vettel,Russian Grand Prix,3,Sochi Autodrom,2018
+Mercedes,1,Vettel,Azerbaijan Grand Prix,1,Baku City Circuit,2017
+McLaren,1,Hülkenberg,Australian Grand Prix,2,Albert Park Grand Prix Circuit,2014
+Mercedes,1,Hülkenberg,Malaysian Grand Prix,2,Sepang International Circuit,2017
+Mercedes,1,Hülkenberg,Bahrain Grand Prix,3,Bahrain International Circuit,2014
+Mercedes,1,Hülkenberg,Chinese Grand Prix,1,Shanghai International Circuit,2016
+Mercedes,1,Hülkenberg,Brazilian Grand Prix,3,Autódromo José Carlos Pace,2014
+Mercedes,1,Maldonado,Singapore Grand Prix,3,Marina Bay Street Circuit,2015
+Ferrari,1,Pérez,Australian Grand Prix,3,Albert Park Grand Prix Circuit,2022
+Red Bull,1,Pérez,Australian Grand Prix,1,Albert Park Grand Prix Circuit,2023
+Mercedes,1,Pérez,Sakhir Grand Prix,3,Bahrain International Circuit,2020
+Mercedes,1,Pérez,Bahrain Grand Prix,3,Bahrain International Circuit,2021
+Mercedes,1,Pérez,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2021
+Red Bull,1,Pérez,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2022
+Red Bull,1,Pérez,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2023
+Red Bull,1,Pérez,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2024
+Ferrari,1,Pérez,Monaco Grand Prix,1,Circuit de Monaco,2017
+Red Bull,1,Pérez,Monaco Grand Prix,3,Circuit de Monaco,2021
+Red Bull,1,Pérez,Canadian Grand Prix,1,Circuit Gilles Villeneuve,2023
+Red Bull,1,Pérez,British Grand Prix,1,Silverstone Circuit,2021
+Red Bull,1,Pérez,British Grand Prix,3,Silverstone Circuit,2022
+Red Bull,1,Pérez,Hungarian Grand Prix,3,Hungaroring,2022
+Red Bull,1,Pérez,Belgian Grand Prix,3,Circuit de Spa-Francorchamps,2022
+Red Bull,1,Pérez,Italian Grand Prix,1,Autodromo Nazionale di Monza,2022
+Red Bull,1,Pérez,Singapore Grand Prix,2,Marina Bay Street Circuit,2022
+Mercedes,1,Pérez,São Paulo Grand Prix,1,Autódromo José Carlos Pace,2021
+Ferrari,1,Pérez,Emilia Romagna Grand Prix,3,Autodromo Enzo e Dino Ferrari,2022
+Red Bull,1,Pérez,Emilia Romagna Grand Prix,3,Autodromo Enzo e Dino Ferrari,2024
+Red Bull,1,Pérez,Japanese Grand Prix,3,Suzuka Circuit,2024
+Mercedes,1,Pérez,Austrian Grand Prix,1,Red Bull Ring,2014
+Red Bull,1,Pérez,Styrian Grand Prix,2,Red Bull Ring,2021
+Red Bull,1,Pérez,Austrian Grand Prix,2,Red Bull Ring,2023
+Mercedes,1,Pérez,Mexico City Grand Prix,3,Autódromo Hermanos Rodríguez,2021
+Red Bull,1,Pérez,Mexico City Grand Prix,2,Autódromo Hermanos Rodríguez,2022
+Red Bull,1,Pérez,French Grand Prix,2,Circuit Paul Ricard,2021
+Mercedes,1,Pérez,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2021
+Red Bull,1,Pérez,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2023
+Red Bull,1,Pérez,United States Grand Prix,3,Circuit of the Americas,2022
+Red Bull,1,Pérez,Azerbaijan Grand Prix,2,Baku City Circuit,2021
+Red Bull,1,Pérez,Azerbaijan Grand Prix,1,Baku City Circuit,2022
+Mercedes,1,Pérez,Portuguese Grand Prix,2,Autódromo Internacional do Algarve,2021
+Mercedes,1,Pérez,Qatar Grand Prix,3,Losail International Circuit,2021
+Red Bull,1,Pérez,Saudi Arabian Grand Prix,2,Jeddah Corniche Circuit,2023
+Red Bull,1,Pérez,Miami Grand Prix,3,Miami International Autodrome,2023
+Red Bull,1,Pérez,Miami Grand Prix,3,Miami International Autodrome,2024
+Mercedes,1,Ricciardo,Australian Grand Prix,1,Albert Park Grand Prix Circuit,2016
+Ferrari,1,Ricciardo,Australian Grand Prix,1,Albert Park Grand Prix Circuit,2018
+Mercedes,1,Ricciardo,Malaysian Grand Prix,3,Sepang International Circuit,2016
+Ferrari,1,Ricciardo,Bahrain Grand Prix,2,Bahrain International Circuit,2017
+Mercedes,1,Ricciardo,Bahrain Grand Prix,2,Bahrain International Circuit,2020
+Mercedes,1,Ricciardo,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2016
+Mercedes,1,Ricciardo,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2017
+Mercedes,1,Ricciardo,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2018
+Mercedes,1,Ricciardo,Monaco Grand Prix,2,Circuit de Monaco,2014
+Mercedes,1,Ricciardo,Monaco Grand Prix,1,Circuit de Monaco,2015
+Mercedes,1,Ricciardo,Monaco Grand Prix,3,Circuit de Monaco,2016
+Mercedes,1,Ricciardo,German Grand Prix,1,Hockenheimring,2016
+Mercedes,1,Ricciardo,Hungarian Grand Prix,2,Hungaroring,2014
+Mercedes,1,Ricciardo,Hungarian Grand Prix,1,Hungaroring,2015
+Mercedes,1,Ricciardo,Hungarian Grand Prix,1,Hungaroring,2018
+Mercedes,1,Ricciardo,Belgian Grand Prix,3,Circuit de Spa-Francorchamps,2017
+Mercedes,1,Ricciardo,Belgian Grand Prix,1,Circuit de Spa-Francorchamps,2020
+Mercedes,1,Ricciardo,Italian Grand Prix,2,Autodromo Nazionale di Monza,2016
+Mercedes,1,Ricciardo,Italian Grand Prix,1,Autodromo Nazionale di Monza,2017
+Mercedes,1,Ricciardo,Italian Grand Prix,1,Autodromo Nazionale di Monza,2021
+Mercedes,1,Ricciardo,Singapore Grand Prix,1,Marina Bay Street Circuit,2015
+Mercedes,1,Ricciardo,Singapore Grand Prix,1,Marina Bay Street Circuit,2016
+Mercedes,1,Ricciardo,Singapore Grand Prix,2,Marina Bay Street Circuit,2017
+Mercedes,1,Ricciardo,Singapore Grand Prix,3,Marina Bay Street Circuit,2018
+Mercedes,1,Ricciardo,Chinese Grand Prix,3,Shanghai International Circuit,2014
+Mercedes,1,Ricciardo,Chinese Grand Prix,1,Shanghai International Circuit,2018
+Mercedes,1,Ricciardo,Brazilian Grand Prix,2,Autódromo José Carlos Pace,2016
+Mercedes,1,Ricciardo,Brazilian Grand Prix,3,Autódromo José Carlos Pace,2018
+Red Bull,1,Ricciardo,São Paulo Grand Prix,3,Autódromo José Carlos Pace,2023
+Mercedes,1,Ricciardo,Eifel Grand Prix,3,Nürburgring,2020
+Mercedes,1,Ricciardo,Japanese Grand Prix,3,Suzuka Circuit,2016
+Mercedes,1,Ricciardo,Japanese Grand Prix,3,Suzuka Circuit,2017
+Mercedes,1,Ricciardo,Austrian Grand Prix,3,Red Bull Ring,2016
+Mercedes,1,Ricciardo,Austrian Grand Prix,2,Red Bull Ring,2017
+Mercedes,1,Ricciardo,Mexican Grand Prix,1,Autódromo Hermanos Rodríguez,2016
+Mercedes,1,Ricciardo,Mexican Grand Prix,3,Autódromo Hermanos Rodríguez,2018
+Red Bull,1,Ricciardo,Mexico City Grand Prix,3,Autódromo Hermanos Rodríguez,2022
+Mercedes,1,Ricciardo,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2014
+Mercedes,1,Ricciardo,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2016
+Mercedes,1,Ricciardo,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2018
+Mercedes,1,Ricciardo,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2020
+Red Bull,1,Ricciardo,United States Grand Prix,2,Circuit of the Americas,2023
+Ferrari,1,Ricciardo,Azerbaijan Grand Prix,3,Baku City Circuit,2018
+Mercedes,1,Grosjean,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2020
+Mercedes,1,Grosjean,Monaco Grand Prix,2,Circuit de Monaco,2018
+Mercedes,1,Grosjean,Chinese Grand Prix,2,Shanghai International Circuit,2016
+McLaren,1,Bottas,Australian Grand Prix,3,Albert Park Grand Prix Circuit,2014
+Ferrari,1,Bottas,Australian Grand Prix,2,Albert Park Grand Prix Circuit,2017
+Mercedes,1,Bottas,Australian Grand Prix,1,Albert Park Grand Prix Circuit,2019
+Ferrari,1,Bottas,Bahrain Grand Prix,1,Bahrain International Circuit,2018
+Mercedes,1,Bottas,Bahrain Grand Prix,3,Bahrain International Circuit,2019
+Mercedes,1,Bottas,Sakhir Grand Prix,2,Bahrain International Circuit,2020
+Mercedes,1,Bottas,Bahrain Grand Prix,1,Bahrain International Circuit,2021
+Mercedes,1,Bottas,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2019
+Mercedes,1,Bottas,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2020
+Mercedes,1,Bottas,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2021
+Mercedes,1,Bottas,Turkish Grand Prix,2,Istanbul Park,2020
+Mercedes,1,Bottas,Turkish Grand Prix,1,Istanbul Park,2021
+Mercedes,1,Bottas,Monaco Grand Prix,2,Circuit de Monaco,2019
+Mercedes,1,Bottas,Canadian Grand Prix,3,Circuit Gilles Villeneuve,2018
+Mercedes,1,Bottas,Canadian Grand Prix,1,Circuit Gilles Villeneuve,2019
+Mercedes,1,Bottas,British Grand Prix,3,Silverstone Circuit,2017
+Mercedes,1,Bottas,British Grand Prix,2,Silverstone Circuit,2019
+Mercedes,1,Bottas,German Grand Prix,2,Hockenheimring,2018
+Mercedes,1,Bottas,Hungarian Grand Prix,3,Hungaroring,2014
+Mercedes,1,Bottas,Hungarian Grand Prix,3,Hungaroring,2019
+Mercedes,1,Bottas,Hungarian Grand Prix,2,Hungaroring,2020
+Mercedes,1,Bottas,Belgian Grand Prix,1,Circuit de Spa-Francorchamps,2018
+Mercedes,1,Bottas,Belgian Grand Prix,2,Circuit de Spa-Francorchamps,2019
+Mercedes,1,Bottas,Italian Grand Prix,3,Autodromo Nazionale di Monza,2017
+Mercedes,1,Bottas,Italian Grand Prix,3,Autodromo Nazionale di Monza,2018
+Mercedes,1,Bottas,Italian Grand Prix,3,Autodromo Nazionale di Monza,2019
+Mercedes,1,Bottas,Italian Grand Prix,2,Autodromo Nazionale di Monza,2021
+Mercedes,1,Bottas,Singapore Grand Prix,3,Marina Bay Street Circuit,2017
+Mercedes,1,Bottas,Singapore Grand Prix,2,Marina Bay Street Circuit,2019
+Mercedes,1,Bottas,Chinese Grand Prix,3,Shanghai International Circuit,2017
+Mercedes,1,Bottas,Brazilian Grand Prix,1,Autódromo José Carlos Pace,2018
+Mercedes,1,Bottas,Brazilian Grand Prix,1,Autódromo José Carlos Pace,2019
+Mercedes,1,Bottas,Emilia Romagna Grand Prix,2,Autodromo Enzo e Dino Ferrari,2020
+Mercedes,1,Bottas,Japanese Grand Prix,1,Suzuka Circuit,2017
+Mercedes,1,Bottas,Japanese Grand Prix,3,Suzuka Circuit,2018
+Mercedes,1,Bottas,Austrian Grand Prix,3,Red Bull Ring,2014
+Mercedes,1,Bottas,Austrian Grand Prix,2,Red Bull Ring,2020
+Mercedes,1,Bottas,Mexican Grand Prix,3,Autódromo Hermanos Rodríguez,2017
+Mercedes,1,Bottas,Mexican Grand Prix,1,Autódromo Hermanos Rodríguez,2018
+Mercedes,1,Bottas,Mexico City Grand Prix,1,Autódromo Hermanos Rodríguez,2021
+Mercedes,1,Bottas,French Grand Prix,1,Circuit Paul Ricard,2018
+Mercedes,1,Bottas,French Grand Prix,3,Circuit Paul Ricard,2019
+Red Bull,1,Bottas,French Grand Prix,3,Circuit Paul Ricard,2021
+Mercedes,1,Bottas,Dutch Grand Prix,2,Circuit Park Zandvoort,2021
+Mercedes,1,Bottas,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2017
+Mercedes,1,Bottas,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2018
+Mercedes,1,Bottas,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2019
+Mercedes,1,Bottas,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2020
+Mercedes,1,Bottas,United States Grand Prix,2,Circuit of the Americas,2017
+Mercedes,1,Bottas,United States Grand Prix,2,Circuit of the Americas,2019
+Mercedes,1,Bottas,Russian Grand Prix,1,Sochi Autodrom,2014
+Mercedes,1,Bottas,Russian Grand Prix,3,Sochi Autodrom,2017
+Mercedes,1,Bottas,Russian Grand Prix,1,Sochi Autodrom,2018
+Mercedes,1,Bottas,Russian Grand Prix,3,Sochi Autodrom,2019
+Mercedes,1,Bottas,Russian Grand Prix,1,Sochi Autodrom,2020
+Mercedes,1,Bottas,Russian Grand Prix,3,Sochi Autodrom,2021
+Mercedes,1,Bottas,Azerbaijan Grand Prix,3,Baku City Circuit,2017
+Ferrari,1,Bottas,Azerbaijan Grand Prix,1,Baku City Circuit,2018
+Mercedes,1,Bottas,Azerbaijan Grand Prix,2,Baku City Circuit,2019
+Mercedes,1,Bottas,Tuscan Grand Prix,2,Autodromo Internazionale del Mugello,2020
+Mercedes,1,Bottas,Portuguese Grand Prix,2,Autódromo Internacional do Algarve,2020
+Mercedes,1,Bottas,Portuguese Grand Prix,1,Autódromo Internacional do Algarve,2021
+Mercedes,1,Bottas,Saudi Arabian Grand Prix,2,Jeddah Corniche Circuit,2021
+Mercedes,1,Magnussen,German Grand Prix,2,Hockenheimring,2014
+Mercedes,1,Magnussen,Singapore Grand Prix,2,Marina Bay Street Circuit,2014
+Mercedes,1,Magnussen,Singapore Grand Prix,1,Marina Bay Street Circuit,2018
+Mercedes,1,Magnussen,Singapore Grand Prix,1,Marina Bay Street Circuit,2019
+Mercedes,1,Magnussen,Japanese Grand Prix,3,Suzuka Circuit,2019
+Mercedes,1,Magnussen,United States Grand Prix,3,Circuit of the Americas,2017
+Mercedes,1,Kvyat,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2016
+Mercedes,1,Kvyat,Belgian Grand Prix,3,Circuit de Spa-Francorchamps,2015
+Mercedes,1,Kvyat,Belgian Grand Prix,3,Circuit de Spa-Francorchamps,2016
+Mercedes,1,Kvyat,Singapore Grand Prix,3,Marina Bay Street Circuit,2014
+Mercedes,1,Kvyat,Singapore Grand Prix,3,Marina Bay Street Circuit,2019
+Mercedes,1,Kvyat,Mexican Grand Prix,3,Autódromo Hermanos Rodríguez,2015
+Mercedes,1,Kvyat,United States Grand Prix,3,Circuit of the Americas,2014
+Red Bull,1,Sainz,Australian Grand Prix,3,Albert Park Grand Prix Circuit,2023
+Red Bull,1,Sainz,Australian Grand Prix,3,Albert Park Grand Prix Circuit,2024
+Ferrari,1,Sainz,Bahrain Grand Prix,3,Bahrain International Circuit,2022
+Mercedes,1,Sainz,Turkish Grand Prix,2,Istanbul Park,2021
+Red Bull,1,Sainz,Canadian Grand Prix,1,Circuit Gilles Villeneuve,2022
+Red Bull,1,Sainz,British Grand Prix,2,Silverstone Circuit,2022
+Red Bull,1,Sainz,British Grand Prix,1,Silverstone Circuit,2024
+Mercedes,1,Sainz,Italian Grand Prix,2,Autodromo Nazionale di Monza,2020
+Red Bull,1,Sainz,Italian Grand Prix,3,Autodromo Nazionale di Monza,2023
+Red Bull,1,Sainz,Singapore Grand Prix,3,Marina Bay Street Circuit,2022
+Mercedes,1,Sainz,Chinese Grand Prix,3,Shanghai International Circuit,2015
+Red Bull,1,Sainz,São Paulo Grand Prix,3,Autódromo José Carlos Pace,2022
+Red Bull,1,Sainz,Japanese Grand Prix,2,Suzuka Circuit,2024
+Mercedes,1,Sainz,Styrian Grand Prix,1,Red Bull Ring,2020
+Red Bull,1,Sainz,Austrian Grand Prix,2,Red Bull Ring,2021
+Red Bull,1,Sainz,French Grand Prix,1,Circuit Paul Ricard,2022
+Red Bull,1,Sainz,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2022
+Ferrari,1,Sainz,Saudi Arabian Grand Prix,3,Jeddah Corniche Circuit,2022
+Ferrari,1,Sainz,Miami Grand Prix,3,Miami International Autodrome,2022
+Mercedes,1,Verstappen,Australian Grand Prix,3,Albert Park Grand Prix Circuit,2019
+Red Bull,1,Verstappen,Australian Grand Prix,2,Albert Park Grand Prix Circuit,2023
+Mercedes,1,Verstappen,Malaysian Grand Prix,2,Sepang International Circuit,2016
+Mercedes,1,Verstappen,Bahrain Grand Prix,1,Bahrain International Circuit,2020
+Mercedes,1,Verstappen,Bahrain Grand Prix,2,Bahrain International Circuit,2021
+Ferrari,1,Verstappen,Bahrain Grand Prix,2,Bahrain International Circuit,2022
+Red Bull,1,Verstappen,Bahrain Grand Prix,1,Bahrain International Circuit,2024
+Mercedes,1,Verstappen,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2019
+Mercedes,1,Verstappen,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2021
+Red Bull,1,Verstappen,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2023
+Red Bull,1,Verstappen,Spanish Grand Prix,2,Circuit de Barcelona-Catalunya,2024
+Mercedes,1,Verstappen,Turkish Grand Prix,3,Istanbul Park,2020
+Mercedes,1,Verstappen,Monaco Grand Prix,1,Circuit de Monaco,2018
+Mercedes,1,Verstappen,Canadian Grand Prix,1,Circuit Gilles Villeneuve,2018
+Mercedes,1,Verstappen,Canadian Grand Prix,3,Circuit Gilles Villeneuve,2019
+Red Bull,1,Verstappen,Canadian Grand Prix,2,Circuit Gilles Villeneuve,2022
+Red Bull,1,Verstappen,Canadian Grand Prix,3,Circuit Gilles Villeneuve,2023
+Mercedes,1,Verstappen,British Grand Prix,2,Silverstone Circuit,2017
+Mercedes,1,Verstappen,British Grand Prix,1,Silverstone Circuit,2020
+Mercedes,1,Verstappen,70th Anniversary Grand Prix,2,Silverstone Circuit,2020
+Red Bull,1,Verstappen,British Grand Prix,1,Silverstone Circuit,2023
+Red Bull,1,Verstappen,British Grand Prix,3,Silverstone Circuit,2024
+Mercedes,1,Verstappen,German Grand Prix,3,Hockenheimring,2018
+Mercedes,1,Verstappen,German Grand Prix,1,Hockenheimring,2019
+Mercedes,1,Verstappen,Hungarian Grand Prix,3,Hungaroring,2017
+Mercedes,1,Verstappen,Hungarian Grand Prix,1,Hungaroring,2019
+Red Bull,1,Verstappen,Hungarian Grand Prix,1,Hungaroring,2023
+Red Bull,1,Verstappen,Belgian Grand Prix,1,Circuit de Spa-Francorchamps,2022
+Red Bull,1,Verstappen,Belgian Grand Prix,2,Circuit de Spa-Francorchamps,2023
+Red Bull,1,Verstappen,Italian Grand Prix,2,Autodromo Nazionale di Monza,2023
+Mercedes,1,Verstappen,Chinese Grand Prix,2,Shanghai International Circuit,2018
+Red Bull,1,Verstappen,Chinese Grand Prix,2,Shanghai International Circuit,2024
+Mercedes,1,Verstappen,Brazilian Grand Prix,1,Autódromo José Carlos Pace,2016
+Mercedes,1,Verstappen,Brazilian Grand Prix,1,Autódromo José Carlos Pace,2017
+Mercedes,1,Verstappen,Brazilian Grand Prix,2,Autódromo José Carlos Pace,2019
+Mercedes,1,Verstappen,São Paulo Grand Prix,3,Autódromo José Carlos Pace,2021
+Red Bull,1,Verstappen,São Paulo Grand Prix,2,Autódromo José Carlos Pace,2023
+Mercedes,1,Verstappen,Eifel Grand Prix,1,Nürburgring,2020
+Mercedes,1,Verstappen,Emilia Romagna Grand Prix,2,Autodromo Enzo e Dino Ferrari,2021
+Ferrari,1,Verstappen,Emilia Romagna Grand Prix,1,Autodromo Enzo e Dino Ferrari,2022
+Red Bull,1,Verstappen,Japanese Grand Prix,1,Suzuka Circuit,2023
+Red Bull,1,Verstappen,Japanese Grand Prix,1,Suzuka Circuit,2024
+Mercedes,1,Verstappen,Austrian Grand Prix,1,Red Bull Ring,2019
+Mercedes,1,Verstappen,Styrian Grand Prix,2,Red Bull Ring,2020
+Red Bull,1,Verstappen,Styrian Grand Prix,3,Red Bull Ring,2021
+Red Bull,1,Verstappen,Austrian Grand Prix,1,Red Bull Ring,2021
+Red Bull,1,Verstappen,Austrian Grand Prix,1,Red Bull Ring,2022
+Red Bull,1,Verstappen,Austrian Grand Prix,1,Red Bull Ring,2023
+Red Bull,1,Verstappen,Austrian Grand Prix,2,Red Bull Ring,2024
+Mercedes,1,Verstappen,Mexican Grand Prix,2,Autódromo Hermanos Rodríguez,2017
+Mercedes,1,Verstappen,Mexican Grand Prix,2,Autódromo Hermanos Rodríguez,2018
+Mercedes,1,Verstappen,Mexico City Grand Prix,2,Autódromo Hermanos Rodríguez,2021
+Red Bull,1,Verstappen,Mexico City Grand Prix,2,Autódromo Hermanos Rodríguez,2023
+Mercedes,1,Verstappen,French Grand Prix,2,Circuit Paul Ricard,2018
+Red Bull,1,Verstappen,French Grand Prix,1,Circuit Paul Ricard,2021
+Red Bull,1,Verstappen,French Grand Prix,2,Circuit Paul Ricard,2022
+Mercedes,1,Verstappen,Dutch Grand Prix,3,Circuit Park Zandvoort,2021
+Red Bull,1,Verstappen,Dutch Grand Prix,1,Circuit Park Zandvoort,2022
+Red Bull,1,Verstappen,Dutch Grand Prix,2,Circuit Park Zandvoort,2023
+Mercedes,1,Verstappen,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2020
+Mercedes,1,Verstappen,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2021
+Red Bull,1,Verstappen,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2023
+Mercedes,1,Verstappen,United States Grand Prix,2,Circuit of the Americas,2018
+Mercedes,1,Verstappen,United States Grand Prix,2,Circuit of the Americas,2021
+Red Bull,1,Verstappen,United States Grand Prix,2,Circuit of the Americas,2022
+Mercedes,1,Verstappen,Russian Grand Prix,3,Sochi Autodrom,2020
+Mercedes,1,Verstappen,European Grand Prix,3,Baku City Circuit,2016
+Red Bull,1,Verstappen,Azerbaijan Grand Prix,1,Baku City Circuit,2021
+Red Bull,1,Verstappen,Azerbaijan Grand Prix,2,Baku City Circuit,2022
+Red Bull,1,Verstappen,Azerbaijan Grand Prix,2,Baku City Circuit,2023
+Mercedes,1,Verstappen,Portuguese Grand Prix,3,Autódromo Internacional do Algarve,2021
+Mercedes,1,Verstappen,Qatar Grand Prix,1,Losail International Circuit,2021
+Red Bull,1,Verstappen,Qatar Grand Prix,1,Losail International Circuit,2023
+Mercedes,1,Verstappen,Saudi Arabian Grand Prix,3,Jeddah Corniche Circuit,2021
+Ferrari,1,Verstappen,Saudi Arabian Grand Prix,2,Jeddah Corniche Circuit,2022
+Red Bull,1,Verstappen,Saudi Arabian Grand Prix,1,Jeddah Corniche Circuit,2023
+Red Bull,1,Verstappen,Saudi Arabian Grand Prix,3,Jeddah Corniche Circuit,2024
+Ferrari,1,Verstappen,Miami Grand Prix,1,Miami International Autodrome,2022
+Red Bull,1,Verstappen,Miami Grand Prix,1,Miami International Autodrome,2023
+Red Bull,1,Verstappen,Las Vegas Grand Prix,2,Las Vegas Strip Street Circuit,2023
+Mercedes,1,Stroll,Monaco Grand Prix,3,Circuit de Monaco,2018
+Mercedes,1,Stroll,Hungarian Grand Prix,3,Hungaroring,2020
+Mercedes,1,Stroll,Italian Grand Prix,3,Autodromo Nazionale di Monza,2020
+Mercedes,1,Stroll,Brazilian Grand Prix,3,Autódromo José Carlos Pace,2017
+Red Bull,1,Stroll,Austrian Grand Prix,3,Red Bull Ring,2023
+Ferrari,1,Leclerc,Australian Grand Prix,1,Albert Park Grand Prix Circuit,2022
+Red Bull,1,Leclerc,Australian Grand Prix,1,Albert Park Grand Prix Circuit,2024
+Mercedes,1,Leclerc,Bahrain Grand Prix,1,Bahrain International Circuit,2019
+Ferrari,1,Leclerc,Bahrain Grand Prix,1,Bahrain International Circuit,2022
+Red Bull,1,Leclerc,Bahrain Grand Prix,2,Bahrain International Circuit,2024
+Red Bull,1,Leclerc,Monaco Grand Prix,2,Circuit de Monaco,2023
+Mercedes,1,Leclerc,Canadian Grand Prix,2,Circuit Gilles Villeneuve,2019
+Red Bull,1,Leclerc,Canadian Grand Prix,3,Circuit Gilles Villeneuve,2022
+Red Bull,1,Leclerc,Hungarian Grand Prix,2,Hungaroring,2022
+Red Bull,1,Leclerc,Belgian Grand Prix,2,Circuit de Spa-Francorchamps,2022
+Red Bull,1,Leclerc,Italian Grand Prix,2,Autodromo Nazionale di Monza,2022
+Mercedes,1,Leclerc,Chinese Grand Prix,3,Shanghai International Circuit,2019
+Ferrari,1,Leclerc,Emilia Romagna Grand Prix,2,Autodromo Enzo e Dino Ferrari,2022
+Mercedes,1,Leclerc,Japanese Grand Prix,2,Suzuka Circuit,2019
+Red Bull,1,Leclerc,Japanese Grand Prix,3,Suzuka Circuit,2022
+Mercedes,1,Leclerc,Austrian Grand Prix,3,Red Bull Ring,2019
+Red Bull,1,Leclerc,Austrian Grand Prix,2,Red Bull Ring,2022
+Mercedes,1,Leclerc,Mexican Grand Prix,1,Autódromo Hermanos Rodríguez,2019
+Mercedes,1,Leclerc,United States Grand Prix,1,Circuit of the Americas,2019
+Mercedes,1,Leclerc,United States Grand Prix,3,Circuit of the Americas,2021
+Mercedes,1,Leclerc,Russian Grand Prix,2,Sochi Autodrom,2019
+Mercedes,1,Leclerc,Azerbaijan Grand Prix,1,Baku City Circuit,2019
+Ferrari,1,Leclerc,Saudi Arabian Grand Prix,1,Jeddah Corniche Circuit,2022
+Red Bull,1,Leclerc,Saudi Arabian Grand Prix,1,Jeddah Corniche Circuit,2024
+Ferrari,1,Leclerc,Miami Grand Prix,2,Miami International Autodrome,2022
+Red Bull,1,Leclerc,Las Vegas Grand Prix,3,Las Vegas Strip Street Circuit,2023
+Red Bull,1,Gasly,Bahrain Grand Prix,2,Bahrain International Circuit,2023
+Mercedes,1,Gasly,Monaco Grand Prix,1,Circuit de Monaco,2019
+Red Bull,1,Gasly,Monaco Grand Prix,3,Circuit de Monaco,2023
+Red Bull,1,Gasly,British Grand Prix,3,Silverstone Circuit,2021
+Mercedes,1,Gasly,Hungarian Grand Prix,1,Hungaroring,2021
+Mercedes,1,Gasly,Belgian Grand Prix,3,Circuit de Spa-Francorchamps,2020
+Mercedes,1,Gasly,Chinese Grand Prix,1,Shanghai International Circuit,2019
+Mercedes,1,Gasly,Russian Grand Prix,2,Sochi Autodrom,2020
+Ferrari,1,Sirotkin,Bahrain Grand Prix,3,Bahrain International Circuit,2018
+Red Bull,1,Norris,Australian Grand Prix,2,Albert Park Grand Prix Circuit,2024
+Red Bull,1,Norris,Bahrain Grand Prix,3,Bahrain International Circuit,2023
+Red Bull,1,Norris,Spanish Grand Prix,1,Circuit de Barcelona-Catalunya,2024
+Mercedes,1,Norris,Turkish Grand Prix,1,Istanbul Park,2020
+Mercedes,1,Norris,Turkish Grand Prix,3,Istanbul Park,2021
+Red Bull,1,Norris,Monaco Grand Prix,1,Circuit de Monaco,2022
+Red Bull,1,Norris,Canadian Grand Prix,3,Circuit Gilles Villeneuve,2024
+Red Bull,1,Norris,British Grand Prix,2,Silverstone Circuit,2023
+Mercedes,1,Norris,Italian Grand Prix,3,Autodromo Nazionale di Monza,2021
+Red Bull,1,Norris,São Paulo Grand Prix,1,Autódromo José Carlos Pace,2023
+Mercedes,1,Norris,Emilia Romagna Grand Prix,3,Autodromo Enzo e Dino Ferrari,2021
+Red Bull,1,Norris,Japanese Grand Prix,2,Suzuka Circuit,2023
+Mercedes,1,Norris,Austrian Grand Prix,1,Red Bull Ring,2020
+Red Bull,1,Norris,Austrian Grand Prix,3,Red Bull Ring,2024
+Red Bull,1,Norris,Mexico City Grand Prix,3,Autódromo Hermanos Rodríguez,2023
+Red Bull,1,Norris,Abu Dhabi Grand Prix,1,Yas Marina Circuit,2022
+Mercedes,1,Norris,Russian Grand Prix,1,Sochi Autodrom,2021
+Mercedes,1,Norris,Portuguese Grand Prix,3,Autódromo Internacional do Algarve,2020
+Red Bull,1,Norris,Qatar Grand Prix,2,Losail International Circuit,2023
+Mercedes,1,Albon,Monaco Grand Prix,3,Circuit de Monaco,2019
+Mercedes,1,Albon,British Grand Prix,2,Silverstone Circuit,2020
+Mercedes,1,Albon,70th Anniversary Grand Prix,3,Silverstone Circuit,2020
+Red Bull,1,Albon,Belgian Grand Prix,3,Circuit de Spa-Francorchamps,2023
+Mercedes,1,Albon,Emilia Romagna Grand Prix,3,Autodromo Enzo e Dino Ferrari,2020
+Mercedes,1,Albon,Mexican Grand Prix,2,Autódromo Hermanos Rodríguez,2019
+Red Bull,1,Albon,Abu Dhabi Grand Prix,3,Yas Marina Circuit,2023
+Mercedes,1,Albon,United States Grand Prix,3,Circuit of the Americas,2019
+Mercedes,1,Albon,Tuscan Grand Prix,3,Autodromo Internazionale del Mugello,2020
+Red Bull,1,Albon,Miami Grand Prix,2,Miami International Autodrome,2024
+Mercedes,1,Russell,Sakhir Grand Prix,1,Bahrain International Circuit,2020
+Red Bull,1,Russell,Spanish Grand Prix,3,Circuit de Barcelona-Catalunya,2022
+Red Bull,1,Russell,Canadian Grand Prix,2,Circuit Gilles Villeneuve,2024
+Mercedes,1,Russell,German Grand Prix,3,Hockenheimring,2019
+Red Bull,1,Russell,Hungarian Grand Prix,3,Hungaroring,2023
+Red Bull,1,Russell,Singapore Grand Prix,1,Marina Bay Street Circuit,2022
+Red Bull,1,Russell,Singapore Grand Prix,2,Marina Bay Street Circuit,2023
+Red Bull,1,Russell,São Paulo Grand Prix,1,Autódromo José Carlos Pace,2022
+Red Bull,1,Russell,Emilia Romagna Grand Prix,1,Autodromo Enzo e Dino Ferrari,2024
+Red Bull,1,Russell,Mexico City Grand Prix,1,Autódromo Hermanos Rodríguez,2022
+Red Bull,1,Russell,French Grand Prix,3,Circuit Paul Ricard,2022
+Red Bull,1,Russell,Dutch Grand Prix,2,Circuit Park Zandvoort,2022
+Red Bull,1,Russell,Abu Dhabi Grand Prix,2,Yas Marina Circuit,2022
+Red Bull,1,Russell,United States Grand Prix,1,Circuit of the Americas,2022
+Red Bull,1,Russell,United States Grand Prix,3,Circuit of the Americas,2023
+Red Bull,1,Russell,Azerbaijan Grand Prix,1,Baku City Circuit,2023
+Red Bull,1,Zhou,Bahrain Grand Prix,1,Bahrain International Circuit,2023
+Red Bull,1,Zhou,Chinese Grand Prix,3,Shanghai International Circuit,2024
+Red Bull,1,Zhou,Japanese Grand Prix,1,Suzuka Circuit,2022
+Red Bull,1,Tsunoda,Monaco Grand Prix,2,Circuit de Monaco,2021
+Red Bull,1,Tsunoda,Monaco Grand Prix,2,Circuit de Monaco,2022
+Red Bull,1,Tsunoda,United States Grand Prix,1,Circuit of the Americas,2023
+Red Bull,1,Piastri,British Grand Prix,2,Silverstone Circuit,2024
+Red Bull,1,Piastri,Italian Grand Prix,1,Autodromo Nazionale di Monza,2023
+Red Bull,1,Piastri,Qatar Grand Prix,3,Losail International Circuit,2023
+Red Bull,1,Piastri,Miami Grand Prix,1,Miami International Autodrome,2024
+Red Bull,1,Piastri,Las Vegas Grand Prix,1,Las Vegas Strip Street Circuit,2023
